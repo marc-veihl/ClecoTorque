@@ -1,2 +1,2 @@
 # ClecoTorque
-ClecoTorque Analtsis Using Python
+ClecoTorque Analysis Using Python
